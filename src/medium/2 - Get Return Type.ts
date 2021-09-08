@@ -26,7 +26,7 @@
 
 /* _____________ Your Code Here _____________ */
 
-type MyReturnType<T> = T extends (...args: any) => infer S ? S : any
+type MyReturnType<T> = T extends (...args: any) => infer R ? R : any
 
 
 /* _____________ Test Cases _____________ */
