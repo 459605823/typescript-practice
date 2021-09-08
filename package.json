@@ -1,0 +1,19 @@
+{
+  "name": "ts-practice",
+  "version": "1.0.0",
+  "description": "TS 体操练习",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1",
+    "typescript": "^4.4.2"
+  }
+}
